@@ -70,5 +70,5 @@ MIT
 
 ## Citation
 
-https://evescape.org/
-https://www.pascalnotin.com/publication/trancepteve/
+* https://evescape.org/
+* https://www.pascalnotin.com/publication/trancepteve/
