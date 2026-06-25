@@ -66,8 +66,9 @@ and follow the workflow sequentially through each stage.
 
 ## License
 
-[Choose appropriate license]
+MIT
 
 ## Citation
 
-If you use this repository, please cite the associated publication (when available).
+https://evescape.org/
+https://www.pascalnotin.com/publication/trancepteve/
